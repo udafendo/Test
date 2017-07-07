@@ -1,0 +1,11 @@
+E:\Myprojects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+E:\Myprojects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Myprojects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Myprojects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.dll
+E:\Myprojects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Myprojects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.xml
+E:\Myprojects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Myprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Myprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\Myprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.Inheritance.resources
+E:\Myprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
